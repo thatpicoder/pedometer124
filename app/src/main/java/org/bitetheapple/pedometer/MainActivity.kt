@@ -38,18 +38,21 @@ class MainActivity : ComponentActivity() {
 
                         Text(
                             text = "There are",
-                            fontSize = 28.sp
+                            fontSize = 28.sp,
+                            color = Color.White
                         )
 
                         Text(
                             text = "3",
                             fontSize = 96.sp,
-                            fontWeight = FontWeight.Bold
+                            fontWeight = FontWeight.Bold,
+                            color = Color.White
                         )
 
                         Text(
                             text = "pedos in your area.",
-                            fontSize = 28.sp
+                            fontSize = 28.sp,
+                            color = Color.White
                         )
                     }
                 }
